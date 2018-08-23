@@ -1,0 +1,8 @@
+E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\bin\Debug\CopyUSBFileDemo.exe
+E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\bin\Debug\CopyUSBFileDemo.pdb
+E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\obj\Debug\CopyUSBFileDemo.exe
+E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\obj\Debug\CopyUSBFileDemo.pdb
+E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\bin\Debug\CopyUSBFileDemo.exe.config
+E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\obj\Debug\CopyUSBFileDemo.ProjectInstaller.resources
+E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\obj\Debug\CopyUSBFileDemo.csproj.GenerateResource.Cache
+E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\obj\Debug\CopyUSBFileDemo.USBThiefService.resources

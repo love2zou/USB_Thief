@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnInstallerWindowService", "UnInstallerWindowService\UnInstallerWindowService.csproj", "{75402C58-1C33-447C-A685-E23C9A091166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindwoInstalTool", "WindwoInstalTool\WindwoInstalTool.csproj", "{2B0F56C6-B589-48B9-B981-B4FEF42B4369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyUSBFileDemo", "CopyUSBFileDemo\CopyUSBFileDemo.csproj", "{404671DB-28A7-4722-8F54-8E0410800B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75402C58-1C33-447C-A685-E23C9A091166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75402C58-1C33-447C-A685-E23C9A091166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75402C58-1C33-447C-A685-E23C9A091166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75402C58-1C33-447C-A685-E23C9A091166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0F56C6-B589-48B9-B981-B4FEF42B4369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0F56C6-B589-48B9-B981-B4FEF42B4369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0F56C6-B589-48B9-B981-B4FEF42B4369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0F56C6-B589-48B9-B981-B4FEF42B4369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404671DB-28A7-4722-8F54-8E0410800B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404671DB-28A7-4722-8F54-8E0410800B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404671DB-28A7-4722-8F54-8E0410800B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404671DB-28A7-4722-8F54-8E0410800B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

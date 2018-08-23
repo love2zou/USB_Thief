@@ -1,0 +1,11 @@
+E:\Git\wizworkbench\src\UnInstallerWindowService\bin\Debug\UnInstallerWindowService.exe.config
+E:\Git\wizworkbench\src\UnInstallerWindowService\bin\Debug\UnInstallerWindowService.exe
+E:\Git\wizworkbench\src\UnInstallerWindowService\bin\Debug\UnInstallerWindowService.pdb
+E:\Git\wizworkbench\src\UnInstallerWindowService\obj\Debug\UnInstallerWindowService.exe
+E:\Git\wizworkbench\src\UnInstallerWindowService\obj\Debug\UnInstallerWindowService.pdb
+E:\Git\wizworkbench\src\UnInstallerWindowService\obj\Debug\UnInstallerWindowService.csprojResolveAssemblyReference.cache
+E:\Git\Tools\FileMonitorDemo\UnInstallerWindowService\bin\Debug\UnInstallerWindowService.exe.config
+E:\Git\Tools\FileMonitorDemo\UnInstallerWindowService\obj\Debug\UnInstallerWindowService.exe
+E:\Git\Tools\FileMonitorDemo\UnInstallerWindowService\obj\Debug\UnInstallerWindowService.pdb
+E:\Git\Tools\FileMonitorDemo\UnInstallerWindowService\bin\Debug\UnInstallerWindowService.exe
+E:\Git\Tools\FileMonitorDemo\UnInstallerWindowService\bin\Debug\UnInstallerWindowService.pdb

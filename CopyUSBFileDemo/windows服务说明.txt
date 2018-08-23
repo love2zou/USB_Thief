@@ -1,0 +1,8 @@
+﻿cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+installUtil.exe E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\bin\Debug\CopyUSBFileDemo.exe
+installUtil.exe -U E:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\bin\Debug\CopyUSBFileDemo.exe
+
+C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\installUtil.exe E:\CopyUSB\CopyUSBDemo\CopyUSBFileDemo.exe
+C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\installUtil.exe -U E:\CopyUSB\CopyUSBDemo\CopyUSBFileDemo.exe
+
+installUtil.exe E:\CopyUSB\CopyUSBDemo\CopyUSBFileDemo.exe

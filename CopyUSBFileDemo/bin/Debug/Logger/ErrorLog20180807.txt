@@ -1,0 +1,21 @@
+2018-08-07 11:05:03错误信息：正在中止线程。   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 CopyUSBFileDemo.Monitoring.MiniCommand() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 162
+2018-08-07 11:14:41错误信息：正在中止线程。   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 CopyUSBFileDemo.Monitoring.MiniCommand() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 162
+2018-08-07 11:15:30错误信息：正在中止线程。   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 CopyUSBFileDemo.Monitoring.MiniCommand() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 163
+2018-08-07 11:15:30错误信息：正在中止线程。   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 CopyUSBFileDemo.Monitoring.MiniCommand() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 163
+2018-08-07 11:17:02错误信息：正在中止线程。   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 CopyUSBFileDemo.Monitoring.MiniCommand() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 163
+2018-08-07 11:17:56错误信息：正在中止线程。   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 CopyUSBFileDemo.Monitoring.MiniCommand() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 163
+2018-08-07 11:19:16错误信息：正在中止线程。   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 CopyUSBFileDemo.Monitoring.MiniCommand() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 163

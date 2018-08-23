@@ -1,0 +1,10 @@
+E:\Git\wizworkbench\src\WindwoInstalTool\bin\Debug\WindwoInstalTool.exe.config
+E:\Git\wizworkbench\src\WindwoInstalTool\bin\Debug\WindwoInstalTool.exe
+E:\Git\wizworkbench\src\WindwoInstalTool\bin\Debug\WindwoInstalTool.pdb
+E:\Git\wizworkbench\src\WindwoInstalTool\obj\Debug\WindwoInstalTool.exe
+E:\Git\wizworkbench\src\WindwoInstalTool\obj\Debug\WindwoInstalTool.pdb
+E:\Git\Tools\FileMonitorDemo\WindwoInstalTool\bin\Debug\WindwoInstalTool.exe.config
+E:\Git\Tools\FileMonitorDemo\WindwoInstalTool\bin\Debug\WindwoInstalTool.exe
+E:\Git\Tools\FileMonitorDemo\WindwoInstalTool\bin\Debug\WindwoInstalTool.pdb
+E:\Git\Tools\FileMonitorDemo\WindwoInstalTool\obj\Debug\WindwoInstalTool.exe
+E:\Git\Tools\FileMonitorDemo\WindwoInstalTool\obj\Debug\WindwoInstalTool.pdb

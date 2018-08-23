@@ -1,0 +1,14 @@
+2018-08-14 18:45:50错误信息：系统正在关机。   在 System.ServiceProcess.ServiceController.GetDataBaseHandleWithAccess(String machineName, Int32 serviceControlManaqerAccess)
+   在 System.ServiceProcess.ServiceController.GetDataBaseHandleWithConnectAccess()
+   在 System.ServiceProcess.ServiceController.GenerateNames()
+   在 System.ServiceProcess.ServiceController.get_ServiceName()
+   在 System.ServiceProcess.ServiceController.GenerateStatus()
+   在 System.ServiceProcess.ServiceController.get_Status()
+   在 CopyUSBFileDemo.Monitoring.MiniServiceStatus() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 119
+2018-08-14 18:45:55错误信息：系统正在关机。   在 System.ServiceProcess.ServiceController.GetDataBaseHandleWithAccess(String machineName, Int32 serviceControlManaqerAccess)
+   在 System.ServiceProcess.ServiceController.GetDataBaseHandleWithConnectAccess()
+   在 System.ServiceProcess.ServiceController.GenerateNames()
+   在 System.ServiceProcess.ServiceController.get_ServiceName()
+   在 System.ServiceProcess.ServiceController.GenerateStatus()
+   在 System.ServiceProcess.ServiceController.get_Status()
+   在 CopyUSBFileDemo.Monitoring.MiniServiceStatus() 位置 e:\Git\Tools\FileMonitorDemo\CopyUSBFileDemo\Monitoring.cs:行号 119
